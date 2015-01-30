@@ -1,6 +1,6 @@
 PROGRAM date2
 !
-! This program is used to calulate the number of days which have passed in the current year
+! This program is used to calculate the number of days which have passed in the current year
 !
 IMPLICIT NONE
 
